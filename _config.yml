@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mujeresentecnologiaEC.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mujeresentecnologia.ec
+title: Mujeres en Tecnología en Ecuador
+subtitle:
+author: Mujeres en Tecnología
 simple_search: http://google.com/search
 description:
 
