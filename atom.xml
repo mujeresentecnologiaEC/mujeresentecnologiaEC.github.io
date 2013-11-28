@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://mujeresentecnologiaEC.github.io/atom.xml" rel="self"/>
-  <link href="http://mujeresentecnologiaEC.github.io/"/>
-  <updated>2013-11-27T21:06:49-03:00</updated>
-  <id>http://mujeresentecnologiaEC.github.io/</id>
+  <title><![CDATA[Mujeres en Tecnología en Ecuador]]></title>
+  <link href="http://mujeresentecnologia.ec/atom.xml" rel="self"/>
+  <link href="http://mujeresentecnologia.ec/"/>
+  <updated>2013-11-27T21:35:15-03:00</updated>
+  <id>http://mujeresentecnologia.ec/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mujeres en Tecnología]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
