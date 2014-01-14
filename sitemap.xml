@@ -1,19 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://mujeresentecnologia.ec/archives/</loc>
+        <lastmod>2014-01-14T17:23:15-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://mujeresentecnologia.ec/blog/archives/</loc>
-        <lastmod>2013-11-27T21:33:52-03:00</lastmod>
+        <lastmod>2014-01-14T17:23:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://mujeresentecnologia.ec/blog/categories/</loc>
-        <lastmod>2013-11-27T21:33:52-03:00</lastmod>
+        <lastmod>2014-01-14T17:23:15-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mujeresentecnologia.ec/blog/</loc>
+        <lastmod>2014-01-14T17:23:15-05:00</lastmod>
     </url>
     <url>
         <loc>http://mujeresentecnologia.ec/</loc>
-        <lastmod>2013-11-27T21:33:52-03:00</lastmod>
+        <lastmod>2014-01-14T17:23:15-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mujeresentecnologia.ec/new-page/</loc>
+        <lastmod>2014-01-14T17:34:46-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://mujeresentecnologia.ec/quienes-somos/</loc>
+        <lastmod>2014-01-14T18:06:42-05:00</lastmod>
     </url>
     <url>
         <loc>http://mujeresentecnologia.ec/robots.txt</loc>
-        <lastmod>2013-11-25T22:36:45-03:00</lastmod>
+        <lastmod>2014-01-14T17:23:15-05:00</lastmod>
     </url>
 </urlset>
