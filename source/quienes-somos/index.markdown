@@ -2,7 +2,12 @@
 layout: page
 title: "quienes_somos"
 date: 2014-01-14 17:34
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
+
+<div>
+<img src="{{ root_url }}/images/rebecca-sliter.jpg" id="headshot-photo"/>
+<p>Rebecca Sliter</p>
+</div>
