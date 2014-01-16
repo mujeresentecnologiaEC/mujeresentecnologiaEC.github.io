@@ -54,6 +54,11 @@ footer: true
     <p>Jhomy Luzuriaga</p>
 </div>
 
+<div id="headshot">
+      <img src="{{ root_url }}/images/adisrodriguez.JPG" id="headshot-photo"/>
+    <p>Adis Rodriguez</p>
+</div>
+
 
 
 </div>
