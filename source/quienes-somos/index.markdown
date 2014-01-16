@@ -35,3 +35,7 @@ footer: true
     <img src="{{ root_url }}/images/anamaria.jpg" id="headshot-photo"/>
     <p>Ana María</p>
 </div>
+<div>
+    <img src="{{ root_url }}/images/paola-piedra.jpg" id="headshot-photo"/>
+    <p>Paola Piedra</p>
+</div>
