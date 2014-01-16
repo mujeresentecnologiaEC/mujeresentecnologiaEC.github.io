@@ -8,6 +8,6 @@ footer: true
 ---
 
 <div>
-<img src="{{ root_url }}/images/rebecca-sliter.jpg" id="headshot-photo"/>
-<p>Rebecca Sliter</p>
+    <img src="{{ root_url }}/images/rebecca-sliter.JPG" id="headshot-photo"/>
+    <p>Rebecca Sliter</p>
 </div>
