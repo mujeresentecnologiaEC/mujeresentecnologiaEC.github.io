@@ -50,3 +50,7 @@ footer: true
     <img src="{{ root_url }}/images/ananovoa.jpg" id="headshot-photo"/>
     <p>Ana Novoa</p>
 </div>
+<div>
+    <img src="{{ root_url }}/images/jhomaraluzu.jpg" id="headshot-photo"/>
+    <p>Jhomy Luzuriaga</p>
+</div>
