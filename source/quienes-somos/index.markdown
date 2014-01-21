@@ -53,6 +53,10 @@ footer: true
     <img src="{{ root_url }}/images/jhomaraluzu.jpg" id="headshot-photo"/>
     <p>Jhomy Luzuriaga</p>
 </div>
+<div id="headshot">
+    <img src="{{ root_url }}/images/carlasuarez.jpg" id="headshot-photo"/>
+    <p>Carla Suárez</p>
+</div>
 
 <div id="headshot">
       <img src="{{ root_url }}/images/adisrodriguez.JPG" id="headshot-photo"/>
