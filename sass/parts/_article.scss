@@ -34,13 +34,18 @@ article{
 	
 	.entry-content{
     #headshot {
-      padding: 10px 10px;
+      width: 140px;
       float: left;
 
       #headshot-photo {
-        height: 100px;
-        width: 100px;
-        border-radius: 50px;
+        height: 80px;
+        width: 80px;
+        border-radius: 40px;
+        margin: auto;
+        display: block;
+      }
+      p {
+        text-align: center;
       }
     }
 
