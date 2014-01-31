@@ -6,7 +6,6 @@ comments: false
 sharing: true
 footer: true
 ---
-
 <div>
 
 <div id="headshot">
