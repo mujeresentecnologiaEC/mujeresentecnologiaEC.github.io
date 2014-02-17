@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mujeres en Tecnología en Ecuador]]></title>
+  <link href="http://mujeresentecnologia.ec/atom.xml" rel="self"/>
+  <link href="http://mujeresentecnologia.ec/"/>
+  <updated>2014-02-17T14:10:07-05:00</updated>
+  <id>http://mujeresentecnologia.ec/</id>
+  <author>
+    <name><![CDATA[Mujeres en Tecnología]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
