@@ -3,6 +3,7 @@ layout: post
 title: "Un poquito de quiénes somos"
 date: 2014-02-17 14:27:19 -0500
 comments: true
+author: "Carla Suárez"
 categories: 
 ---
 <div id="headshot">
