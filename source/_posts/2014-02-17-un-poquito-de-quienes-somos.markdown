@@ -8,7 +8,7 @@ categories:
 ---
 <div id="headshot">
 	<img src="{{ root_url }}/images/carlasuarez.jpg" id="headshot-photo"/>
-	<p>Carla Suárez</p>
+	<p class = "author-name" >Carla Suárez</p>
 </div>
 
 Desde el 2013, con la llegada de ThoughtWorks al Ecuador, la comunidad de mujeres empezó a abrirse paso en una sociedad donde uno de los principales problemas ha sido la falta de empoderamiento de la mujer para tomar sus propias decisiones, tener la libertad de elegir y desarrollarse en cualquier ámbito, incluso en aquellos que desde el inconsciente social están preconcebidos “solo para los hombres”.

@@ -9,6 +9,10 @@ article{
 	@media screen and (max-width: 620px){
 		padding: 15px 0;
 	}
+	p.author-name{
+		font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+		font-style: italic;
+	}
 	h2.title{
 		font-size: 36px;
 		font-weight: 300;
@@ -95,6 +99,7 @@ article{
 		}
 		strong{
 			font-weight: bold;
+			font-size: 20px;
 		}
 		em{
 			font-style: italic;
