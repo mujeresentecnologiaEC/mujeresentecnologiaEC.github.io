@@ -4,7 +4,7 @@
   <title><![CDATA[Mujeres en Tecnología en Ecuador]]></title>
   <link href="http://mujeresentecnologia.ec/atom.xml" rel="self"/>
   <link href="http://mujeresentecnologia.ec/"/>
-  <updated>2014-02-18T13:54:05-05:00</updated>
+  <updated>2014-02-20T13:17:34-05:00</updated>
   <id>http://mujeresentecnologia.ec/</id>
   <author>
     <name><![CDATA[Mujeres en Tecnología]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Estableciendo objetivos en conjunto]]></title>
+    <link href="http://mujeresentecnologia.ec/blog/2014/02/20/estableciendo-objetivos-en-conjunto/"/>
+    <updated>2014-02-20T10:56:15-05:00</updated>
+    <id>http://mujeresentecnologia.ec/blog/2014/02/20/estableciendo-objetivos-en-conjunto</id>
+    <content type="html"><![CDATA[<div id="headshot">
+    <img src="http://mujeresentecnologia.ec/images/pamelachavez.jpg" id="headshot-photo"/>
+    <p class="author-name">Pamela Chávez</p>
+</div>
+
+
+<p>La comunidad de Mujeres en TI en Ecuador está dando pasos importantes para fortalecerse. Cada mes, desde agosto de 2013, quienes la conformamos nos reunimos en las oficinas de ThoughtWorks en Quito para conocernos y conversar sobre varios temas entorno al rol de la mujer en el área tecnología.</p>
+
+<p>Durante este tiempo, hemos tratado de ser constantes en nuestras reuniones para crear un ambiente estable, en el que podamos sentirnos cómodas y seguras cuando expresemos nuestros pensamientos. Y, sin duda, hemos tenido éxito.</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>En nuestra más reciente reunión, esto se reflejó cuando delineamos algunos parámetros que guiarán nuestra labor en el país. Personalmente, me sentí en un ambiente de confianza, en el que todas estábamos abiertas a propuestas, y todas las ideas fueron respaldadas; fue algo divertido y a la final trabajamos juntas para descubrir qué somos y para qué nos unimos en este gran proyecto.</p>
+
+<p>Utilizamos una actividad a la que denominamos “Elevator Pitch”, la cual nos ayudó a definir, en un pequeño resumen, a nuestra comunidad y su propuesta de valor.</p>
+
+<p>A continuación, compartimos con ustedes el resultado de esta sesión:</p>
+
+<p><strong> Para: </strong> Mujeres y personas interesadas en apoyar la inclusión de la mujer en la tecnología.</p>
+
+<p><strong> Quienes: </strong> Quieren cambiar la realidad, superando obstáculos y medios, eliminando la discriminación y prejuicios.</p>
+
+<p><strong> Es: </strong> Un espacio de apoyo, abierto para la opinión, enmarcado por el respeto y la inclusión.</p>
+
+<p><strong> Que: </strong> Une fuerzas, motiva el aprendizaje, potencia las capacidades de sus miembros y empodera el desarrollo de la mujer, sobre todo el ámbito tecnológico.</p>
+
+<p><strong> En lugar de: </strong> Conformarse con espacios en  donde no existe la inclusión de la mujer y se libran luchas en soledad.</p>
+
+<p><strong> Nuestra comunidad: </strong> Se diferencia por ser espacio de conexión mundial y local, con calidad humana y que busca de la equidad de género.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nos reunimos el 19 de Febrero]]></title>
@@ -31,7 +71,7 @@
     <id>http://mujeresentecnologia.ec/blog/2014/02/17/un-poquito-de-quienes-somos</id>
     <content type="html"><![CDATA[<div id="headshot">
     <img src="http://mujeresentecnologia.ec/images/carlasuarez.jpg" id="headshot-photo"/>
-    <p>Carla Suárez</p>
+    <p class = "author-name" >Carla Suárez</p>
 </div>
 
 
