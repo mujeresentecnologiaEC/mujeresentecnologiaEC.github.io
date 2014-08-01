@@ -4,6 +4,7 @@ title: "Rails Girls se celebrará por primera vez en Quito"
 date: 2014-07-31 12:52:54 -0500
 comments: true
 author: "Pamela Chávez" 
+published: true
 categories:
 ---
 
