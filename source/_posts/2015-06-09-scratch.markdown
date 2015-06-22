@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Enseñando Scratch en Cotacachi"
+date: 2015-06-20 10:46:01 -0500
+comments: true
+categories:
+---
+
+En un mundo donde las personas solo buscan su bien individual, cómodos en sus hogares o trabajos. Es difícil encontrar gente que quiera compartir su tiempo y conocimiento con alguien más. Pero la oportunidad de hacer conocer a otras personas acerca de la tecnología se presentó a través del Scratch Day.
+
+<!-- more -->  
+
+<strong>¿Cómo empezó?... </strong>
+
+Pues nosotras, Ili y Jessi, juntamente con David y Jaime  fuimos a enseñar Scratch a alrededor de 30 wambrakuna de edades de 10 y 18 años en el Jambi Mascari ubicado en la ciudad de Cotacachi, provincia de Imbabura durante el mes de marzo.
+
+
+<strong> Objetivo </strong>
+
+El objetivo fue generar este acercamiento a programación; que este tipo de capacitaciones también esté al alcance a  ciudades no principales dentro del país. Proponer esta distinta exposición de l@s guambrakuna de Cotacachi que es posible darse a conocer no solo desde la danza, teatro, música o artesanías sino también en el área de tecnología.
+
+<div>
+<img src="{{ root_url }}/images/Scratch/1.jpg" width="300" height="500" align=left> </div>
+<div><img src="{{ root_url }}/images/Scratch/9.jpg" width="300" height="500" align=right>
+
+</div>
+
+
+<strong> ¿Cuál fue el sacudón, al enseñar Scratch en Cotacachi? </strong>
+
+Las miradas de asombro de todos y todas, ver cómo l@s wambrakuna palpaban con sus manos que esto no es una ciencia oculta; se adueñaron del conocimiento y lo adaptaron a su realidad, y empezaron a generar sus versiones de juegos. Permitió que por un momento se olvidaran de sus problemas y se destaparan creando sus juegos.
+
+Ver cómo esta idea al inicio era una imagen borrosa y hoy es un resultado. “Al final encontrar esa respuesta, de Jenny con ojos dudosos (warmi de 10 años) dijo: Ñuka rurarkani,  ñapash (Si lo logré... yo pude hacer eso?)”
+
+<div>
+<img src="{{ root_url }}/images/Scratch/4.jpg" align=left width="300" height="500" HSPACE=10 , VSPACE=15>
+</div>
+
+<div>
+<img src="{{ root_url }}/images/Scratch/5.jpg" align=right width="300" height="500" HSPACE=10 , VSPACE=15>
+</div>
+
+<div>
+<img src="{{ root_url }}/images/Scratch/6.jpg" align=center width="400" height="600" HSPACE=10 , VSPACE=15>
+</div>
+
+<strong> ¿Cómo fue la experiencia enseñando Scratch? </strong>
+
+Como profesionales en el campo laboral pensábamos que iba a ser fácil la explicación de Scratch a l@s wambrakuna, en la realidad al estar con ellas de varias edades era difícil que todos vayan coordinados siguiendo el ejercicio, nos tuvimos que dividirnos entre los instructores.
+El espacio era pequeño para interactuar, utilizamos las ventanas del librero como pizarrón, pos it para que escriban sus dudas, se pagó arriendo por el espacio. Pero al final de todo, estuvo Excelente! El hecho de abrir ese cambio y generar ese cambio se sintó bien!! existió un ambiente de aprendizaje relax, tranquilo, risas y de debate.
+
+
+
+
+<strong> ¿Qué fue lo que generó en nosotras después? </strong>
+
+Pues como mujeres en el área de tecnología, hoy nos sentimos responsable de lo que pasa a nuestro alrededor y de cómo "el poder" está en nuestras manos y podemos ser nosotras, quienes cambie la historia.
+En esta experiencia nos equivocamos en varias cosas pero hoy por lo menos tenemos la satisfacción de haberlo intentado. Y estamos seguras que habrá una próxima oportunidad donde se puedan aplicar lo aprendido y vivido en esta experiencia.
+
+
+<strong> ¿Cuál es el siguiente paso? </strong>
+
+El siguiente paso es ayudar a que el conocimiento de las herramientas que la tecnología ofrece llegue a más lugares, nosotras como mujeres en la tecnología tenemos esa facilidad de ayudar y hacerles la invitación para que más personas se unan a esta iniciativa.  A que salgan de su zona de privilegiado/a y confort para que cumplan sus metas, sueñen más allá y que se contagien de esta idea  (ya que para ver esta publicación debieron tener internet y eso es mucho en algunas zonas).
