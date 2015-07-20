@@ -6,9 +6,18 @@
     * Installed Ruby 1.9.3 or greater using either rbenv or RVM. (If ruby --version doesn't say you're using Ruby at least 1.9.3, revisit your rbenv or RVM installation.)
     * Installed one of the ExecJS supported JavaScript runtimes.
 
-###Steps to clone the Repository
+###Steps to contribute
+There are two popular models of collaborative development on GitHub: 
+    * Fork & pull, and 
+    * shared repository
+
+The way you can contribute to this site is doing a fork and sending <a href="https://help.github.com/articles/using-pull-requests/">pull requests</a>
+
 1. First, clone the repo and switch to the correct branch
-    * git clone https://github.com/mujeresentecnologiaEC/mujeresentecnologiaEC.github.io.git
+    * Open your <a href="https://github.com/">github account</a>
+    * Find the repository mujeresentecnologiaEC
+    * Clic on fork
+    * git clone https://github.com/[your_account]/mujeresentecnologiaEC.github.io.git
     * cd mujeresentecnologiaEC.github.io
     * git checkout source
 2. Then, setup the _deploy directory:
