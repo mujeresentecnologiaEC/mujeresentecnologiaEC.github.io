@@ -20,14 +20,17 @@ Ili y yo (Jess) tomamos las riendas del proyecto Scratch Day en Cotacachi, con l
 
 El objetivo fue generar un acercamiento a la programación; que este tipo de capacitaciones también esté al alcance de ciudades no principales dentro del país. Proponer esta exposición a l@s guambrakuna de Cotacachi, mostrándoles que es posible darse a conocer no solo desde la danza, teatro, música o artesanías sino también en el área de tecnología.
 
-<div>
-<img src="{{ root_url }}/images/Scratch/1.jpg" width="300" height="500" align=left> </div>
-<div><img src="{{ root_url }}/images/Scratch/9.jpg" width="300" height="500" align=right>
 
-</div>
 
 </br>
 <strong> ¿Cuál fue el sacudón, al enseñar Scratch en Cotacachi? </strong>
+<div style='height:270px;'>
+  <div>
+    <img src="{{ root_url }}/images/Scratch/1.jpg" width="300" height="500" align=left> </div>
+  <div>
+    <img src="{{ root_url }}/images/Scratch/9.jpg" width="300" height="500" align=right>
+  </div>
+</div>
 
 Las miradas de asombro de todos y todas, ver cómo l@s wambrakuna palpaban con sus manos que esto no es una ciencia oculta; se adueñaron del conocimiento y lo adaptaron a su realidad, y empezaron a generar sus versiones de juegos. Permitió que por un momento se olvidaran de sus problemas y se destaparan creando sus juegos.
 
