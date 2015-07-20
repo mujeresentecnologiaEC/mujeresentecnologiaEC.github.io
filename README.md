@@ -38,6 +38,12 @@ The way you can contribute to this site is doing a fork and sending <a href="htt
     * git merge upstream/master
     * git checkout source
     * git merge upstream/source
+6. Send changes to original repository (everytime you finish a job)
+    * Open https://github.com/[your_account]/mujeresentecnologiaEC.github.io.git
+    * Click on *pull request* in the right side bar
+    * Click on *New pull request* (green button)
+    * Verify your changes
+    * Click in *Create pull request*
 
 ###Blogging with Octopress:
 1. To create a new post:
