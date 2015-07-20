@@ -24,7 +24,7 @@ The way you can contribute to this site is doing a fork and sending <a href="htt
     * mkdir _deploy
     * cd _deploy
     * git init
-    * git remote add -t master -f origin https://github.com/mujeresentecnologiaEC/mujeresentecnologiaEC.github.io.git
+    * git remote add -t master -f origin https://github.com/[your_account]/mujeresentecnologiaEC.github.io.git
 3. Install dependencies needed:
     * cd mujeresentecnologiaEC.github.io
     * gem install bundler
