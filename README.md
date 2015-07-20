@@ -30,6 +30,14 @@ The way you can contribute to this site is doing a fork and sending <a href="htt
     * gem install bundler
     * rbenv rehash (If you use rbenv, rehash to be able to run the bundle command)
     * bundle install 
+4. Add remote project (only once)
+    * git remote add upstream https://github.com/mujeresentecnologiaEC/mujeresentecnologiaEC.github.io
+5. Sync with remote original repository (everytime you want to sync)
+    * git fetch upstream
+    * git checkout master
+    * git merge upstream/master
+    * git checkout source
+    * git merge upstream/source
 
 ###Blogging with Octopress:
 1. To create a new post:
