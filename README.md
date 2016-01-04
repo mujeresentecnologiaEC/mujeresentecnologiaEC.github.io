@@ -7,8 +7,8 @@
     * Installed one of the ExecJS supported JavaScript runtimes.
 
 ###Steps to contribute
-There are two popular models of collaborative development on GitHub: 
-    * Fork & pull, and 
+There are two popular models of collaborative development on GitHub:
+    * Fork & pull, and
     * shared repository
 
 The way you can contribute to this site is doing a fork and sending <a href="https://help.github.com/articles/using-pull-requests/">pull requests</a>
@@ -29,7 +29,7 @@ The way you can contribute to this site is doing a fork and sending <a href="htt
     * cd mujeresentecnologiaEC.github.io
     * gem install bundler
     * rbenv rehash (If you use rbenv, rehash to be able to run the bundle command)
-    * bundle install 
+    * bundle install
 4. Add remote project (only once)
     * git remote add upstream https://github.com/mujeresentecnologiaEC/mujeresentecnologiaEC.github.io
 5. Sync with remote original repository (everytime you want to sync)
@@ -58,3 +58,5 @@ This will create a post in source/_posts/2011-07-03-zombie-ninjas-attack-a-survi
 4. Save it, make a commit and send a pull request!
 
 ####That's all you need to do to start blogging in our page. We'll be updating our blog page soon in order to make it nicer :)
+
+Original version of site file
